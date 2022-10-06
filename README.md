@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karishma Shinde.
 - 👀 I’m an aspiring full stack developer.
 - 🌱 I’m currently learning full stack developement.
-- 💞️ I’m looking to collaborate on html, css, javascript, react js , node js and sql.
+- 💞️ I’m looking to collaborate on html, css, javascript, react js , node js and sql and mongodb.
 
 
 <!---
